@@ -21,4 +21,4 @@ $ python ./kaprekar_constant.py 1234
 
 
 
-This Video was inspired by [Numberphile's Video](https://youtu.be/d8TRcZklX_Q)
+This code snippet was inspired by [Numberphile's Video](https://youtu.be/d8TRcZklX_Q)

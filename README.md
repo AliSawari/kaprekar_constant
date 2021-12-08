@@ -12,7 +12,7 @@ repeat the process
 8532 - 2358 = 6174
 
 
-# Run the Code
+# Run
 This simple code takes any number as an input and calculate how many times it takes to reaches the constant
 
 ```sh

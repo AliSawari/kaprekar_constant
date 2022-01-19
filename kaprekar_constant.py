@@ -40,7 +40,7 @@ def kaprekar_constant(num):
   if the_condition(num):
     print("Starting with {}".format(result))
 
-    while result != THE_CONSTANT:
+    while int(result) != THE_CONSTANT:
       counter += 1
       print("# Loop {} #".format(counter))
       reordered = sort_dec(result)
@@ -52,7 +52,7 @@ def kaprekar_constant(num):
       print("Result after Subtraction: {}".format(result))
       print(" ")
       
-  if result == THE_CONSTANT:
+  if int(result) == THE_CONSTANT:
     print("Reached the kaprekar's constant in {} loops!".format(counter))
   else: print("Did not Reach the Constant!")
 

@@ -1,4 +1,4 @@
-# Kaprekar's Constant 6174
+# Kaprekar's Constant
 
 There is a rule in Math that applies to 4 digit numbers. for each 4 digit number
 that is not made of all repetitive numbers (like 1111 or 2222), if you subtract the ascending order of that number from the descending order of it, it will eventually end up in Kaprekar's Constant which is 6174.

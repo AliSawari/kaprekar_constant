@@ -13,7 +13,7 @@ repeat the process
 
 
 # Run
-This simple code takes any number as an input and calculate how many times it takes to reaches the constant
+This simple code takes any number as an input and calculate how many steps it takes to reach the constant
 
 ```sh
 $ python ./kaprekar_constant.py 1234
